@@ -1,2 +1,3 @@
-# cs167
-CS167 UCR my labs and projects
+# Big-Data-Management
+
+ CS167 @ UCR
